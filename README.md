@@ -6,7 +6,7 @@
 2. Запустить среду моделирования:
    python src/main.py
 ### Пример работы
-test/start.jpeg
-test/end.jpeg
-test/path.jpeg
+![Начало робота](https://github.com/alexponomisnotbad/omniwheel_robot/tree/main/test/start.jpeg)
+![Конец робота](https://github.com/alexponomisnotbad/omniwheel_robot/tree/main/test/end.jpeg)
+![Траектория](https://github.com/alexponomisnotbad/omniwheel_robot/tree/main/test/path.jpeg)
 ### Лицензия MIT
