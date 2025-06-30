@@ -101,7 +101,7 @@ class RobotController:
                 data.ctrl[self.motor_indices[key]] = 0
             return True, np.zeros(3)
 
-        Kp, Kd, Ki = 1.0, 1.0, 1.0
+        Kp, Kd, Ki = 1.0, 2.0, 5.0
         max_speed, min_speed = 0.2, 0.01
         max_integral = 0.5
 
